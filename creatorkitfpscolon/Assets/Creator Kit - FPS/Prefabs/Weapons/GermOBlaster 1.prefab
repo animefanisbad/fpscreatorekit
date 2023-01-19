@@ -51,7 +51,7 @@ MonoBehaviour:
   fireRate: 0.1
   reloadTime: 1
   clipSize: 30
-  damage: 1
+  damage: 3
   ammoType: 0
   projectilePrefab: {fileID: 0}
   projectileLaunchForce: 200
